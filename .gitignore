@@ -29,3 +29,6 @@ dist
 ### Temp
 .tmp
 tmp
+
+### Remove db files (windows)
+*.db
